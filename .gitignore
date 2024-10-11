@@ -1,0 +1,30 @@
+
+---
+
+### **`.gitignore`**
+
+```gitignore
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# Environment files
+.env
+api.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.pyo
+*.so
+*.dll
